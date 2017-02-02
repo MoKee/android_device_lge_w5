@@ -41,7 +41,7 @@ TARGET_RELEASETOOLS_EXTENSIONS := device/lge/w5/releasetools
 TARGET_BOOTLOADER_BOARD_NAME := w5
 
 # Kernel
-TARGET_KERNEL_CONFIG := w5_lineageos_defconfig
+TARGET_KERNEL_CONFIG := mokee_w5_defconfig
 
 # Filesystem,
 BOARD_FLASH_BLOCK_SIZE := 131072
