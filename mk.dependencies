@@ -6,5 +6,13 @@
   {
     "repository": "android_device_lge_msm8226-common",
     "target_path": "device/lge/msm8226-common"
+  },
+  {
+    "repository": "android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
   }
 ]
